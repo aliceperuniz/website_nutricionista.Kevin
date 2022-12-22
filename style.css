@@ -14,7 +14,7 @@
 .nav_bar{
     height: 100px;
     width: 100%;
-    background-color: rgb(149, 171, 173);
+    background-color: #0D154C;
     position: fixed;
     display: flex;
     align-items: center;
@@ -22,7 +22,7 @@
 }
 
 main{
-    background-image: url('images/background_azul.jpg');
+    background-color: #F4D495;
     opacity: 5;
     height: 2300px;
 }
@@ -38,9 +38,8 @@ main{
 }
 
 .infoN a{
-    background-color: rgb(149, 171, 173);
+    background-color: #0D154C;
     border: none;
-    text-decoration-color: black;
 }
 
 a{
