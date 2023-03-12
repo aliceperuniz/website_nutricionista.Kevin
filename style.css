@@ -22,7 +22,7 @@
 }
 
 main{
-    background-color: #F4D495;
+    background-image: url("images/main_image.jpg");
     opacity: 5;
     height: 2300px;
 }
@@ -32,16 +32,24 @@ main{
 }
 
 .infoN{
-    background-color: rgb(149, 171, 173);
+    background-color: #0D154C;
     border: none;
-    text-decoration-color: black;
+    text-decoration: none;
 }
 
 .infoN a{
+    color: beige;
     background-color: #0D154C;
     border: none;
+    padding: 20px;
 }
 
 a{
     text-decoration: none;
+}
+
+#Footer {
+    background-image: url("images/footer_image.jpg");
+    height: 100px;
+    width: 100%;
 }
